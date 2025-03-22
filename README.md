@@ -11,4 +11,4 @@ This is a vibrant and interactive **Holi Festival** webpage designed using **HTM
 - 🖼 **Gallery** with Holi celebration moments.
 - 📜 **Guide on how to celebrate Holi** in an eco-friendly way.
 
-you can access the page here
+you can access the page here : https://yashsinghal1234.github.io/Holi_celebration/
